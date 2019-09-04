@@ -1,1 +1,2 @@
 Jer's first Git project.
+Adding more information.
